@@ -4,7 +4,7 @@ from urllib.parse import quote
 import requests
 from bs4 import BeautifulSoup
 
-BASE_URL = "https://wedding.shorna.workers.dev/"
+BASE_URL = "https://index.neonmartial.workers.dev/0:/Harry/"
 
 def get_links(url):
     """Fetches and parses links from a given URL."""
